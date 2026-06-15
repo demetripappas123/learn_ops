@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Document processing platform",
+    "user_request": "I want to build an AI-powered document processing platform.",
+    "expected_certifications": ["AI-102", "AZ-204"],
+    "expected_services": ["Azure AI Document Intelligence", "Azure Functions"],
+    "min_tasks": 7,
+    "expects_assessment": true,
+    "expected_risk_areas": ["Security", "Event-Driven Design", "Document Intelligence"]
+  },
+  {
+    "name": "RAG support assistant",
+    "user_request": "I want to build a RAG support assistant.",
+    "expected_certifications": ["AI-102"],
+    "expected_services": ["Azure AI Search"],
+    "min_tasks": 5,
+    "expects_assessment": true,
+    "expected_risk_areas": []
+  },
+  {
+    "name": "Serverless API platform",
+    "user_request": "I want to build a serverless API platform.",
+    "expected_certifications": ["AZ-204"],
+    "expected_services": ["Azure Functions"],
+    "min_tasks": 5,
+    "expects_assessment": true,
+    "expected_risk_areas": []
+  }
+]

@@ -1,0 +1,3 @@
+{
+  "TEAM-A":{"team_name":"Synthetic Cloud AI Enablement Team","project_progress_percent":60,"az204_coverage_percent":40,"ai102_coverage_percent":25,"risk_areas":["Security","Event-Driven Design"],"completion_patterns":["Learners are completing architecture tasks faster than security tasks.","AI-102 coverage is lagging behind AZ-204 coverage.","Document extraction concepts need more reinforcement."]}
+}

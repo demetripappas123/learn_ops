@@ -1,0 +1,4 @@
+{
+  "AZ-204":{"name":"Developing Solutions for Microsoft Azure","skills":["Azure Functions","Blob Storage","API development","Managed identity","Monitoring","Event-driven architecture"]},
+  "AI-102":{"name":"Designing and Implementing a Microsoft Azure AI Solution","skills":["Azure AI Foundry","Document Intelligence","Azure AI Search","RAG architecture","Responsible AI","AI service integration"]}
+}

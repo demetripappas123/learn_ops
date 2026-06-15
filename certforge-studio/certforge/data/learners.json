@@ -1,0 +1,5 @@
+[
+  {"learner_id":"EMP-001","role":"Junior Backend Developer","experience_level":"intermediate","known_skills":["Python","REST APIs","basic Azure Functions"],"target_certifications":["AZ-204","AI-102"]},
+  {"learner_id":"EMP-002","role":"Cloud Engineer","experience_level":"beginner","known_skills":["Azure Portal","Blob Storage basics"],"target_certifications":["AZ-204"]},
+  {"learner_id":"EMP-003","role":"AI Engineer","experience_level":"intermediate","known_skills":["Python","RAG basics","prompt engineering"],"target_certifications":["AI-102"]}
+]
