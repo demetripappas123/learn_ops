@@ -1,0 +1,3 @@
+{
+  "document_processing_platform":{"project_keywords":["document","processing","forms","pdf","ocr","extraction"],"azure_services":["Azure AI Document Intelligence","Azure Blob Storage","Azure Functions","Azure AI Search","Azure AI Foundry","Microsoft Entra ID"],"certifications":["AI-102","AZ-204"],"risk_areas":["Security","Event-Driven Design","Document Intelligence"]}
+}

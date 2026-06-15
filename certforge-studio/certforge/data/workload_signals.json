@@ -1,0 +1,5 @@
+[
+  {"learner_id":"EMP-001","meeting_hours_per_week":20,"focus_hours_per_week":9,"preferred_learning_slot":"Morning","workload_risk":"Medium"},
+  {"learner_id":"EMP-002","meeting_hours_per_week":24,"focus_hours_per_week":6,"preferred_learning_slot":"Afternoon","workload_risk":"High"},
+  {"learner_id":"EMP-003","meeting_hours_per_week":12,"focus_hours_per_week":18,"preferred_learning_slot":"Morning","workload_risk":"Low"}
+]

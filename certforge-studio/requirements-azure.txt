@@ -1,0 +1,7 @@
+# Optional Azure integration extras.
+# The core app (main.py, evals, local Streamlit) runs WITHOUT these.
+# Install only when running against real Azure services:
+#     pip install -r requirements-azure.txt
+azure-identity>=1.17.0
+azure-search-documents>=11.5.2
+openai>=1.40.0

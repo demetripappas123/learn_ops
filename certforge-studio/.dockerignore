@@ -1,0 +1,9 @@
+.venv/
+.env
+.git/
+.gitignore
+__pycache__/
+*.pyc
+.DS_Store
+certforge/telemetry/*.jsonl
+.pytest_cache/
